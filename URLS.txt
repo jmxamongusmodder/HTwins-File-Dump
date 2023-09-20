@@ -1,0 +1,3 @@
+pathways:
+https://htwins.net/static/ (leads to subdomain admin, then a bunch of other stuff)
+https://htwins.net/cgi-bin/ (unaccesible requires admin i think)
